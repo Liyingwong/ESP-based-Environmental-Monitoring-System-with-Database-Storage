@@ -25,7 +25,7 @@ Libraries: ESP8266WiFi, ESP8266HTTPClient, DHT, Wire, LiquidCrystal_I2C, WiFiCli
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/environmental-monitoring-system.git
+git clone https://github.com/Liyingwong/environmental-monitoring-system.git
 cd environmental-monitoring-system
 Install required libraries:
 Ensure you have the following libraries installed in your Arduino IDE:
